@@ -1,0 +1,35 @@
+1a) A parameter is a variable declared as part of the function, while an
+argument is a literal value copied over a function.
+
+1b) An element is a value or variable in an array. While an Index is a key
+to identify where the array is stored.
+
+2a) clear()
+
+2b) push_back() & insert()
+
+3a) size()
+
+3b) reverse()
+
+4a) push()
+
+4b) pop()
+
+4c) front()
+
+4d) empty()
+
+5a) push()
+
+5b) pop()
+
+5c) top()
+
+5d) Lists are FIFO while stacks are LIFO.
+
+6a) A key is a unique identifier for a value.
+
+6b) A value is an element in a map.
+
+6c) Some other terms would be dictionary or hash-table.

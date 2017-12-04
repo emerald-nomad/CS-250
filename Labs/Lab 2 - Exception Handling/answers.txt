@@ -1,0 +1,7 @@
+1) No-Throw Guarantee, strong exception safety, basic exception safety, no exception safety
+
+2) You can have an unlimited amount of catch blocks per try block.
+
+3) invalid_argument, length_error, out_of_range
+
+4) overflow_error, range_error, underflow_error
